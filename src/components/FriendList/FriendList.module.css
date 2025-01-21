@@ -1,0 +1,19 @@
+.list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.item {
+  border: 2px solid black;
+  border-radius: 16px;
+  padding: 16px;
+  text-align: center;
+  justify-content: center;
+  background-color: azure;
+  width: -webkit-fill-available;
+}
